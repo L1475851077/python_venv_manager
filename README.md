@@ -21,9 +21,9 @@
 
 ## 📸 界面预览
 
-![](C:\Users\lsz\Pictures\PixPin_2026-02-25_18-37-03.png)
+![](https://github.com/L1475851077/python_venv_manager/tree/main/images/start.png)
+![](https://github.com/L1475851077/python_venv_manager/tree/main/images/starting.png)
 
-<img src="C:\Users\lsz\Pictures\PixPin_2026-02-25_18-37-43.png" style="zoom:80%;" />
 
 ## 🚀 快速开始
 
