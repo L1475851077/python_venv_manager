@@ -21,8 +21,8 @@
 
 ## 📸 界面预览
 
-![](https://github.com/L1475851077/python_venv_manager/tree/main/images/start.png)
-![](https://github.com/L1475851077/python_venv_manager/tree/main/images/starting.png)
+![](https://github.com/L1475851077/python_venv_manager/blob/main/images/start.png?raw=true)
+![](https://github.com/L1475851077/python_venv_manager/blob/main/images/starting.png?raw=true)
 
 
 ## 🚀 快速开始
